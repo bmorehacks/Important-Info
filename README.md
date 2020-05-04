@@ -1,2 +1,4 @@
 # Important-Info
-just stuff i guesss
+
+email: bmorehacks2@gmail.com
+pass: hacksbmore3!
